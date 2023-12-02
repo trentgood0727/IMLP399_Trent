@@ -5,4 +5,4 @@
 作業 - [Unit01_Crash Course on Python.ipynb](https://github.com/trentgood0727/IMLP399_Trent/blob/main/Unit01_Crash%20Course%20on%20Python.ipynb)
 
 ## Unit02
-作業 - [Unit02] (https://github.com/trentgood0727/IMLP399_Trent/tree/main/Unit02)
+作業 - [Unit02](https://github.com/trentgood0727/IMLP399_Trent/tree/main/Unit02)
