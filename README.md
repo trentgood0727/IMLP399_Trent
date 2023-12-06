@@ -11,4 +11,4 @@
 作業 - [Unit03](https://github.com/trentgood0727/IMLP399_Trent/tree/main/Unit03)
 
 ## Unit04 Linear Regression
-作業 - [Unit04-Linear Regression_HW](https://github.com/trentgood0727/IMLP399_Trent/tree/main/Linear%20Regression_HW.ipynd)
+作業 - [Unit04-Linear Regression_HW](https://github.com/trentgood0727/IMLP399_Trent/tree/main/Linear%20Regression_HW.ipynb)
