@@ -12,3 +12,6 @@
 
 ## Unit04 Linear Regression
 作業 - [Unit04-Linear Regression_HW](https://github.com/trentgood0727/IMLP399_Trent/tree/main/Linear%20Regression_HW.ipynb)
+
+## Unit05 Supervised Learning
+作業 - [Unit05-Supervised Learning_HW](https://github.com/trentgood0727/IMLP399_Trent/tree/main/Unit05)
