@@ -15,3 +15,6 @@
 
 ## Unit05 Supervised Learning
 作業 - [Unit05-Supervised Learning_HW](https://github.com/trentgood0727/IMLP399_Trent/tree/main/Unit05)
+
+## Unit06 Ensemble learning
+作業 - [Unit06-Ensemble learning_HW](https://github.com/trentgood0727/IMLP399_Trent/tree/main/Unit06)
